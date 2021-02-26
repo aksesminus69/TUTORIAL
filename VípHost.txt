@@ -1,0 +1,246 @@
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+0.0.0.0 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+
+127.0.0.1               local host
+fc00:4444:5555:6666:6666
+  : : 1                           ip6 - local host
+  
+0.0.0.0 .qq.com
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .cn
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .cnzz.com
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .net
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .helpshift.com
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .fbsbx.com
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .qq.com
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .gcloudcs.com
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .proximabeta.com
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .igamecj.com
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .doubleclick.net
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .gstatic.com
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .pubgmobile.com
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .qcloud.com
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .userapi.com
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .actencent.com
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .gclouds.com
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+0.0.0.0 .tencent.com
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+
+0.0.0.0 krping.igamecj.com
+0.0.0.0 hkping.igamecj.com
+0.0.0.0 meping.igamecj.com
+0.0.0.0 saping.igamecj.com
+0.0.0.0 euping.igamecj.com
+0.0.0.0 naping.igamecj.com
+
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+mmmmmm m        mm   m    m mmmmmm
+ #      #        ##   ##  ## #
+ #mmmmm #       #  #  # ## # #mmmmm
+ #      #       #mm#  # "" # #
+ #      #mmmmm #    # #    # #mmmmm
+0.0.0.0 loop   m mm   mmm    mmm   mm#mm    #HQ#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ ###""##"#""#"#"#"#"#"#"#"#"#"#"#"#"#"#"#
+ 0.0.0.0 loop   m mm   mmm    mmm   mm#mm
+ 
+0.0.0.0 idcconfig.gcloud.qq.com
+0.0.0.0 api.facebook.com
+0.0.0.0 app.adjust.com
+0.0.0.0 hkspeed.igamecj.com
+0.0.0.0 napubgm.broker.tplay.qq.com
+0.0.0.0 csoversea.mbgame.gamesafe.qq.com
+0.0.0.0 idcconfig.gcloud.qq.com
+0.0.0.0 file.igamecj.com
+0.0.0.0 api.facebook.com
+0.0.0.0 vmp.qq.com
+0.0.0.0 cdn.wetest.qq.com
